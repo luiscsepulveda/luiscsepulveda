@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="200" src="https://i.ibb.co/gLf9jxZW/Luis-C-Sepulveda.png"  />
+</div>
+
+###
+
 <h1 align="left">Hey 👋 What's up?</h1>
 
 ###
@@ -77,5 +83,9 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/luiscsepulveda/luiscsepulveda/output/snake.svg" alt="Snake animation" />
 
 ###
