@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="400" src="https://i.ibb.co/gLf9jxZW/Luis-C-Sepulveda.png"  />
+  <img height="200" src="https://i.ibb.co/7tc6Js9T/Luis-C-Sepulveda-1.png"  />
 </div>
 
 ###
