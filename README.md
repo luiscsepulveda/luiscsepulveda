@@ -16,8 +16,14 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Android Studio, Kotlin/Java, NodeJS, express<br>🎯 Goals: to be part of a nice tema to learn how to work in a real project.<br>🎲 Fun fact: I use to be a Respiratory therapist in Argentina.</p>
-
+<p align="left">
+✨ Creating (and fixing) bugs since 2022<br>
+📚 Currently learning Android Studio, Kotlin/Java, Node.js, Express, and diving into Cybersecurity fundamentals<br>
+🎯 Goals: To join a collaborative team where I can grow, contribute, and gain real-world project experience<br>
+🛡️ Cybersecurity Steps: Building a strong foundation in security best practices, risk management, and safe coding principles<br>
+💡 Eager to Learn: If I don’t know how to do something, I make it my mission to learn it quickly and get it done<br>
+🎲 Fun fact: I used to be a Respiratory Therapist in Argentina before switching careers into tech
+</p>
 ###
 
 <h2 align="left">I code with</h2>
